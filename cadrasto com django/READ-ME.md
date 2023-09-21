@@ -1,4 +1,3 @@
-README.md
 Django User Registration Project
 This is a simple Django project for user registration. It allows you to register users with a name and age and view the list of registered users.
 
@@ -47,6 +46,8 @@ Access the application in your web browser at http://localhost:8000/.
 
 Contributing
 Feel free to contribute to this project. You can open issues or submit pull requests.
+
+_________________________________________________________________________________________________________________________________________
 
 Projeto de Cadastro de Usuários em Django
 Este é um projeto simples em Django para cadastro de usuários. Ele permite que você cadastre usuários com nome e idade e visualize a lista de usuários cadastrados.
